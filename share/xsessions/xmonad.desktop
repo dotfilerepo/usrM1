@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=XMonad
+Comment=This session logs you into XMonad
+Exec=/home/jules/.cabal/bin/xmonad
+TryExec=
+Icon=
+Type=Application
+
